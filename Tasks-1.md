@@ -17,7 +17,7 @@ The input string is a palindrome.
 ```
 $ python3 T1-01.py 
 Enter a string: No lemon, no melon  
-The input string is a not palindrome.
+The input string is a a palindrome.
 ```
 
 ## T1-02:
