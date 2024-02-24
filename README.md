@@ -9,9 +9,8 @@
 | 11:00  |  Task 2  (Activities)   |   Participants   |
 | 12:00  |  Lunch    |      |
 | 1:00   |  Task 3 (Activities) |  Participants    |
-| 2:00   |  Task 4 (Activities)   |   Participants   |
-| 3:00   |  Final Group Discussion |   All   |
-| 3:30   |  Exit-questionnaire + Closing | All |
+| 2:00   |  Final Group Discussion |   All   |
+| 2:45   |  Exit-questionnaire + Closing | All |
 
 
 ## Prerequisites
