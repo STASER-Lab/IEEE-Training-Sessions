@@ -1,6 +1,6 @@
 # ACTIVITY TASKS 3:
 
-- Add video recordings to: [dropbox](https://www.dropbox.com/request/sBLPVGqSBlgRB5Cke01a)
+- Add individual files to the folder TASK3 in [Onedrive](https://ubcca-my.sharepoint.com/:f:/g/personal/gema_rodriguezperez_ubc_ca/EpftLkZNoEFLslShzZ2T5uABbUxK5NO5qGsM8lY8YEZpBw?e=NeaKJS)
 
 
 ## Description T3-1
