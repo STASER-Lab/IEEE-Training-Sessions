@@ -1,10 +1,10 @@
 # ACTIVITY TASKS 2:
 
-- Add video recordings to: [dropbox](https://www.dropbox.com/request/iA0SqQuOCbJmgP3uf4WQ)
+- Add individual files to the folder TASK2 in [Onedrive](https://ubcca-my.sharepoint.com/:f:/g/personal/gema_rodriguezperez_ubc_ca/EpftLkZNoEFLslShzZ2T5uABbUxK5NO5qGsM8lY8YEZpBw?e=NeaKJS)
 
 
 ## Description T2-1
-After running python3 T2-1.py, the  program delete the first and the last column in a CSV file data.csv and  save to another file output.csv in directory output/.
+After running python3 T2-1.py, the program deletes the first and the last column in a CSV file data.csv and saves it to another file output.csv in the directory output/.
 
 * Example Output
 ```
