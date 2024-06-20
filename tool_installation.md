@@ -1,1 +1,7 @@
-# Tool instalation and removal
+# Tool installation and removal
+
+## How to install the tool?
+
+
+## How to remove the tool?
+
